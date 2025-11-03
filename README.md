@@ -49,5 +49,5 @@ Each file provides information about **customers, merchants, transactions, and a
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Soumit0702/financial-fraud-detection-system.git
+git clone https://github.com/Soumit0702/Financial_Fraud_detection.git
 cd financial-fraud-detection-system
