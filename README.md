@@ -1,3 +1,5 @@
+# Financial Fraud Detection Using Machine Learning
+---
 
 Each file provides information about **customers, merchants, transactions, and anomalies**, forming a complete financial ecosystem for fraud analysis.
 
